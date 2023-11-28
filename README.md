@@ -7,7 +7,7 @@ Rotationg a whole sub-tree to balance/
 Emptying Tree/
 Rank of an element - returns the rank of an element depending on it's value/
 Select(k) - returns the sub-tree who's root has the K'th rank/
-NextMissing - returns the smallest number that bigger than the tree's minimum value
+NextMissing - returns the smallest number that's bigger than the tree's minimum value
 
 
 Documentation:
