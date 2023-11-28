@@ -1,4 +1,4 @@
-# AVL-Tree - The fastest running program in Data Structures Summer 2021
+# AVL-Tree - The fastest running program in Uni Haifa - Data Structures Summer 2021
 Built an AVL tree that supports the following: All functions we're built with the perfect complexity
 Inserting an element
 Searching an element
